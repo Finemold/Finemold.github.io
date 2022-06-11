@@ -1,4 +1,6 @@
-Privacy Policy
+
+## Privacy Policy
+
 
 PRROBE TEMPERATURE (hereinafter referred to as "PROBE TEMP", "App" or "Application") is a software and hardware combination product provided by Shenzhen Finemold Technologies Co., Ltd. (hereinafter referred to as "we" or "our company").
 
