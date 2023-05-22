@@ -2,7 +2,7 @@
 ## Privacy Policy
 
 
-PRROBE TEMPERATURE (hereinafter referred to as "PROBE TEMP", "App" or "Application") is a software and hardware combination product provided by Shenzhen Finemold Technologies Co., Ltd. (hereinafter referred to as "we" or "our company").
+PRROBE TEMPERATURE 、PRROBE PLUS(hereinafter referred to as "PROBE TEMP"、"PRROBE PLU", "App" or "Application") is a software and hardware combination product provided by Shenzhen Finemold Technologies Co., Ltd. (hereinafter referred to as "we" or "our company").
 
 A smart hardware device refers to a device (hereinafter referred to as "device", "hardware") that can be controlled and managed in the application after being bound with the application.
 
@@ -177,4 +177,5 @@ This "Privacy Policy" is closely related to the services you use of our company.
 
 24. Effectiveness of the Privacy Policy
 
-    The update date of this policy version is June 11, 2022, and it will take effect on June 11, 2022.
+    The update date of this policy version is May 18, 2023, and it will take effect on May 18, 2023.
+
