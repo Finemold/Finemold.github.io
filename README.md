@@ -2,7 +2,7 @@
 ## Privacy Policy
 
 
-PRROBE TEMPERATURE 、PRROBE PLUS(hereinafter referred to as "PROBE TEMP"、"PRROBE PLU", "App" or "Application") is a software and hardware combination product provided by Shenzhen Finemold Technologies Co., Ltd. (hereinafter referred to as "we" or "our company").
+PRROBE TEMPERATURE 、PRROBE PLUS (hereinafter referred to as "PROBE TEMP"、"PRROBE PLU", "App" or "Application") is a software and hardware combination product provided by Shenzhen Finemold Technologies Co., Ltd. (hereinafter referred to as "we" or "our company").
 
 A smart hardware device refers to a device (hereinafter referred to as "device", "hardware") that can be controlled and managed in the application after being bound with the application.
 
